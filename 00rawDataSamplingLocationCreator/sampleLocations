@@ -1,0 +1,152 @@
+  y_plus_1
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.49722 0);
+    end   (0 0.49722 6.28);
+  nPoints 256;
+  }
+  y_plus_10
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.47222 0);
+    end   (0 0.47222 6.28);
+  nPoints 256;
+  }
+  y_plus_20
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.44444 0);
+    end   (0 0.44444 6.28);
+  nPoints 256;
+  }
+  y_plus_30
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.41666 0);
+    end   (0 0.41666 6.28);
+  nPoints 256;
+  }
+  y_plus_40
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.38888 0);
+    end   (0 0.38888 6.28);
+  nPoints 256;
+  }
+  y_plus_50
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.3611 0);
+    end   (0 0.3611 6.28);
+  nPoints 256;
+  }
+  y_plus_60
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.33332 0);
+    end   (0 0.33332 6.28);
+  nPoints 256;
+  }
+  y_plus_70
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.30554 0);
+    end   (0 0.30554 6.28);
+  nPoints 256;
+  }
+  y_plus_80
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.27776 0);
+    end   (0 0.27776 6.28);
+  nPoints 256;
+  }
+  y_plus_90
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.24998 0);
+    end   (0 0.24998 6.28);
+  nPoints 256;
+  }
+  y_plus_100
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.2222 0);
+    end   (0 0.2222 6.28);
+  nPoints 256;
+  }
+  y_plus_110
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.19442 0);
+    end   (0 0.19442 6.28);
+  nPoints 256;
+  }
+  y_plus_120
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.16664 0);
+    end   (0 0.16664 6.28);
+  nPoints 256;
+  }
+  y_plus_130
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.13886 0);
+    end   (0 0.13886 6.28);
+  nPoints 256;
+  }
+  y_plus_140
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.11108 0);
+    end   (0 0.11108 6.28);
+  nPoints 256;
+  }
+  y_plus_150
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.0833 0);
+    end   (0 0.0833 6.28);
+  nPoints 256;
+  }
+  y_plus_160
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.05552 0);
+    end   (0 0.05552 6.28);
+  nPoints 256;
+  }
+  y_plus_170
+  {
+    type  uniform;
+    axis  z;
+    start (0 0.02774 0);
+    end   (0 0.02774 6.28);
+  nPoints 256;
+  }
+  y_plus_180
+  {
+    type  uniform;
+    axis  z;
+    start (0 0 0);
+    end   (0 0 6.28);
+  nPoints 256;
+  }
